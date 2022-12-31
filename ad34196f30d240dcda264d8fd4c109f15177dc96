@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b458677b_6a1bde6a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000433
+      },
+      "writtenOn": "2022-12-31T11:41:22Z",
+      "side": 1,
+      "message": "Fixes compilation after QPR1 merge.",
+      "revId": "ad34196f30d240dcda264d8fd4c109f15177dc96",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
